@@ -242,4 +242,4 @@ This repository serves as the official landing page for **Dead Cells**. The soft
 **Get the most recent version of Dead Cells today!**
 
 ---
-**Last updated:** 2026-09-17 17:58:45 UTC
+**Last updated:** 2026-09-17 21:15:41 UTC
